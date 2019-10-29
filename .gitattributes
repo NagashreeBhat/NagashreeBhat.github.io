@@ -1,3 +1,3 @@
 static/* linguist-vendored
 *.dart inguist-detectable=true
-# *.js linguist-vendored=false
+*.js linguist-vendored=false
